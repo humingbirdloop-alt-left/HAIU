@@ -4,7 +4,7 @@ _Sprinkle Snake will see you now_
 
 | Dispatch                                         | Actual jurisdiction                 |
 | ------------------------------------------------ | ----------------------------------- |
-| 🐍 The Magnificent Machine Has No Civilians      |                                     |
+| 🐍 The Magnificent Machine Has No Civilians(sprinklesnake/99_archive/The Magnificent Machine Has No Civilians)      |                                     |
 | 🐍 The Thing Does Everything                     | Product scope and positioning       |
 | 🐍 The Customer Is Allegedly Everyone            | Market segmentation                 |
 | 🐍 The Repository Is Not a Business Plan         | Commercial readiness                |
